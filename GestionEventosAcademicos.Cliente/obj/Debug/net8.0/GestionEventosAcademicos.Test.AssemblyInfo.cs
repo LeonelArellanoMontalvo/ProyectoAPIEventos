@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionEventosAcademicos.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3440d7ad6b229146c9283e6850a9fc96aa3e7a73")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionEventosAcademicos.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionEventosAcademicos.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
