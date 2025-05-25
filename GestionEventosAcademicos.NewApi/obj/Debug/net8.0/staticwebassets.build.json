@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "szlbkuD9hhcqJEk7rDusowpBrKBGwieDk5HGRdneWa0=",
+  "Source": "GestionEventosAcademicos.NewApi",
+  "BasePath": "_content/GestionEventosAcademicos.NewApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
